@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and deep Learning Frameworks**
 
-- 💬 Ask me about **Python, Java, ML**
+- 💬 Ask me about **Python, Java, Machine Learning**
 
 - 📫 How to reach me **lakshancooray23@gmail.com**
 
