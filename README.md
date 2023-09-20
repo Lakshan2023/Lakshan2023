@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and deep Learning Frameworks**
 
-- 💬 Ask me about **Python, Java, Machine Learning**
+- 💬 Ask me about **Python, Java, ML**
 
 - 📫 How to reach me **lakshancooray23@gmail.com**
 
@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshan2023&show_icons=true&locale=en" alt="lakshan2023" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan2023&" alt="lakshan2023" /></p>
 
