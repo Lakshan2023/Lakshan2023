@@ -26,11 +26,11 @@
     <tr>
       <td align="center" width="33%">
         <h3>💻 Programming Languages</h3>
-        <img src="https://skillicons.dev/icons?i=python,java,javascript" alt="Programming Languages" /><br>
+        <img src="https://skillicons.dev/icons?i=python,java,javascript,r" alt="Programming Languages" /><br>
       </td>
       <td align="center" width="33%">
         <h3>🌐 Web Technologies</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,flask,git" alt="Web Technologies" /><br>
+        <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi" alt="Web Technologies" /><br>
       </td>
       <td align="center" width="33%">
         <h3>🧠 Data Science Toolkit</h3>
