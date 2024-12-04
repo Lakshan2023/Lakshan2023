@@ -1,8 +1,9 @@
 # Hi 👋 I'm Lakshan Cooray
 
-## Data Science Student
 
-![Profile Views](https://komarev.com/ghpvc/?username=lakshan2023&label=Profile%20views&color=0e75b6&style=flat)
+## Data Science Student 
+
+[![](https://visitcount.itsvg.in/api?id=lakshan2023&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## About Me
 
@@ -64,12 +65,16 @@
 ## GitHub Stats
 
 <div align="center">
-  <h3>🌐 Coding Languages Breakdown</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshan2023&layout=compact&theme=transparent&langs_count=10&hide_title=true" alt="Top Languages" width="600"/>
-  <h3>🚀 Overall GitHub Performance</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshan2023&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats" width="600"/>
-  <h3>🔥 Contribution Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan2023&theme=transparent" alt="Contribution Streak" width="600"/>
-  <h3>📈 Detailed Contribution Graph</h3>
-  <img src="https://github-contribution-graph.vercel.app/api/lakshan2023?theme=react" alt="Contribution Graph" width="600"/>
+  <h3>📊 GitHub Stats</h3>
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshan2023&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="600"/><br/>
+
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan2023&theme=dark&hide_border=false" alt="GitHub Streak" width="600"/><br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan2023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="600"/><br/>
 </div>
+
+---
+
