@@ -14,10 +14,17 @@
 
 ![Personal Photo](https://github.com/user-attachments/assets/05e96ffe-6665-4a28-96bc-06794bcf7465)
 
-## Connect with Me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshan%20Cooray-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lakshan-cooray/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-lakshancooray23-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/lakshancooray23)
+<div align="center">
+  <a href="https://www.linkedin.com/in/lakshan-cooray/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/lakshancooray23" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</div>
+
 
 ## Languages and Tools
 
