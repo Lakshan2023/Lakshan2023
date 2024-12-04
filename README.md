@@ -63,20 +63,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <h3>🌈 Coding Language Spectrum</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshan2023&layout=donut-vertical&theme=vision-friendly-dark" alt="Language Distribution" />
-      </td>
-      <td align="center" width="50%">
-        <h3>🚀 Performance Metrics</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=lakshan2023&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="GitHub Performance" />
-      </td>
-    </tr>
-  </table>
-  <h3>🔥 Contribution Intensity</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan2023&theme=vision-friendly-dark&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Contribution Streak" />
-  <h3>📈 Contribution Graph</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=lakshan2023&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
+  <h3>🌐 Coding Languages Breakdown</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshan2023&layout=compact&theme=transparent&langs_count=10&hide_title=true" alt="Top Languages" width="600"/>
+  <h3>🚀 Overall GitHub Performance</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshan2023&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats" width="600"/>
+  <h3>🔥 Contribution Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan2023&theme=transparent" alt="Contribution Streak" width="600"/>
+  <h3>📈 Detailed Contribution Graph</h3>
+  <img src="https://github-contribution-graph.vercel.app/api/lakshan2023?theme=react" alt="Contribution Graph" width="600"/>
 </div>
