@@ -61,20 +61,5 @@
     </tr>
   </table>
 </div>
-
-## GitHub Stats
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshan2023&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="600"/><br/>
-
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan2023&theme=dark&hide_border=false" alt="GitHub Streak" width="600"/><br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan2023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="600"/><br/>
-</div>
-
 ---
 
