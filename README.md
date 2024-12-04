@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **lakshancooray23@gmail.com**
 
+<br><br>
+![WhatsApp Image 2024-11-10 at 18 21 39_0455dc9f](https://github.com/user-attachments/assets/05e96ffe-6665-4a28-96bc-06794bcf7465)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lakshan-cooray/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshan cooray" height="30" width="40" /></a>
