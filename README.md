@@ -7,8 +7,7 @@
 
 ## About Me
 
-- 🌱 Currently learning **Machine Learning and Deep Learning**
-- 💬 Ask me about **Machine learning and Java**
+- 💬 Ask me about **Machine learning, Deep Learning, LLMs, SLMs, NLP**
 - 📫 Reach me at **lakshancooray23@gmail.com**
 
 ## My Photo
